@@ -80,3 +80,7 @@ After determining which factors are key for the MechaCar's genre:
 **Statistical Tests**
 
 A multiple linear regression would be used to determine the factors that have the highest correlation/predictability with the list selling price (dependent variable); or which combination has the greatest impact on price
+
+> LinkedIn: https://www.linkedin.com/in/wilson-alexei/
+
+> Email: wils.alexei@gmail.com
